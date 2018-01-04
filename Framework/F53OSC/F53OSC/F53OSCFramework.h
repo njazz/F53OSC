@@ -10,6 +10,8 @@
 
 #import "F53OSC.h"
 
+#import "F53OSCFoundationAdditions.h"
+
 //! Project version number for F53OSC.
 FOUNDATION_EXPORT double F53OSCVersionNumber;
 
@@ -17,5 +19,3 @@ FOUNDATION_EXPORT double F53OSCVersionNumber;
 FOUNDATION_EXPORT const unsigned char F53OSCVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <F53OSC/PublicHeader.h>
-
-
