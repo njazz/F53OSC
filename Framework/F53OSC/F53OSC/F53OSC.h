@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "F53OSC.h"
-
+#import "F53OSCHeader.h"
 #import "F53OSCFoundationAdditions.h"
 
 //! Project version number for F53OSC.
