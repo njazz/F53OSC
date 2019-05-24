@@ -26,7 +26,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "F53OSC.h"
+#import "F53OSCHeader.h"
 
 #define F53_OSC_SERVER_DEBUG 0
 
